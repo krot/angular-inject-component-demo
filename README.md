@@ -1,0 +1,1 @@
+# angular-inject-component-demo
